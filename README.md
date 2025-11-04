@@ -1,7 +1,7 @@
 # Hey, I'm Basava 👋
 
 🎓 CSE Student at PES EC Campus, Bengaluru  
-💻 Engineer in the making | 📸 Photographer without a camera  
+💻 Engineer in the making | 📸 Photographer  
 🔧 I build things in **C, Python**, and a bit of **web** too  
 🎯 Focused on meaningful projects that mix logic, design, and real-world impact
 
