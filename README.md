@@ -12,17 +12,20 @@
 - 🚀 **Morse Code Translator**  
   Terminal & GUI versions using C and Python. Includes text ↔️ Morse ↔️ audio functionality.
 
-- 📚 Python GUI library management
+- 📚 **Python GUI library management**
   Built using Tkinter, this app lets users manage books, issue/return records, and member details — a clean UI meets core database logic.
+- **Web Tech| typing speed website**
+- **DSA| Exam Paper Distribution manager**
+- **DDCO|⁠Dual Elevator Controller System (Multi-floor Handling with Priority)**
 ---
 
 ## ⚙️ Tech Stack
 
 ```plaintext
-Languages   : C, Python, HTML, CSS
-Skills      : Photography,Cinematography,editing,Blender 
+Languages   : C, Python, HTML, CSS, JS, React
+Other Skills      : Photography,editing,Blender
 
 📫 Let’s Connect!
 	•	📷 Instagram @basava_prabhu_46
-	•	🧑‍💻 LinkedIn basavaprabhu046
-	•	✉️ Say hi: mr.basavaprabhu07@gmail.com
+	•	🧑‍💻 LinkedIn basavaprabhu46
+	•	✉️ Say hi: basavaprabhu046@gmail.com
