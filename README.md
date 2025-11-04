@@ -1,4 +1,4 @@
-# Hey, I'm Basava 👋
+# Hey, I'm Basava Prabhu 👋
 
 🎓 CSE Student at PES EC Campus, Bengaluru  
 💻 Engineer in the making | 📸 Photographer  
