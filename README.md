@@ -22,8 +22,8 @@
 ## ⚙️ Tech Stack
 
 ```plaintext
-Languages   : C, Python, HTML, CSS, JS, React
-Other Skills      : Photography,editing,Blender
+Languages    : C, Python, HTML, CSS, JS, React
+Other Skills : Photography,editing,Blender
 
 📫 Let’s Connect!
 	•	📷 Instagram @basava_prabhu_46
