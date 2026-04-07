@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/basavaprabhu46)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basavaprabhu46/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Basavaprabhu46)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basavaprabhu046@gmail.com)
 
@@ -20,14 +20,6 @@
 > *CSE undergrad at PES University, Bengaluru — curious about the math behind intelligent systems and always looking to build something meaningful.*
 
 I'm a 2nd-year Computer Science student passionate about **AI, ML, and understanding how LLMs work under the hood**. I enjoy bridging theoretical concepts with real-world applications — whether that's building RAG pipelines, full-stack web apps, or low-level systems in C.
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| B.Tech in Computer Science & Engineering | PES University, Bengaluru | 2024 – 2028 | 7.5 |
 
 ---
 
@@ -87,13 +79,13 @@ An interactive full-stack web app to measure typing speed and accuracy in real t
 
 ---
 
-## 🏛️ Positions of Responsibility
+### 🏛️ Positions of Responsibility
 
 - 🎨 **Core Member, Pixelloid** — College Media Club, PES University *(2024 – Present)*
 
 ---
 
-## 🎨 Beyond the Code
+### 🎨 Beyond the Code
 
 When I'm not debugging or reading papers, you'll find me:
 
