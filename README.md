@@ -93,18 +93,19 @@ When I'm not debugging or reading papers, you'll find me:
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basavaprabhu46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Basavaprabhu46&show_icons=true&theme=tokyonight&hide_border=true)
 &nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basavaprabhu46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Basavaprabhu46&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
-
+-->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
