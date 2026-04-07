@@ -55,10 +55,10 @@ I'm a 2nd-year Computer Science student passionate about **AI, ML, and understan
 
 ### 🎨 Creative & Design
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Digital Art](https://img.shields.io/badge/Digital%20Art-31A8FF?style=for-the-badge&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
+![Digital Art](https://img.shields.io/badge/Digital%20Art-31A8FF?style=flat-square&logoColor=white)
 
 ---
 
