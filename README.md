@@ -75,6 +75,21 @@ An AI-powered compliance assistant built on **Retrieval-Augmented Generation (RA
 
 ---
 
+### 🔍 [LSA-SpamFilter – SMS Spam Detection via SVD](https://github.com/Basavaprabhu46/Latent-Semantic-Analysis-SMS-Spam-Detection)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+A spam classifier built on **Latent Semantic Analysis (LSA)** — decomposes a TF-IDF matrix via **Truncated SVD**, projects messages into latent space, and classifies using **cosine similarity to class centroids**.
+
+- 📐 Applied rank reduction (k=100) to filter noise and capture latent semantic structure
+- ⚙️ Fixed 3 core bugs: added 80/20 stratified split, replaced 1-NN with centroid classifier, added full evaluation
+- 🎯 Tunable decision threshold for precision vs. recall tradeoff on unseen test data
+
+---
+
 ### ⌨️ Typing Speed Test Web App
 > `MongoDB` `Express` `React` `Node.js`
 
