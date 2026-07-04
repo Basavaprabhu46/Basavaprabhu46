@@ -45,7 +45,7 @@ I'm a 2nd-year Computer Science student passionate about **AI, ML, and understan
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1C3C3C?style=flat-square&logo=NumPyin&logoColor=white)
-
+![Pandas](https://img.shields.io/badge/Pandas-1C3C3C?style=flat-square&logo=Pandasin&logoColor=white)
 **Core CS**
 
 ![DSA](https://img.shields.io/badge/DSA-FF4757?style=flat-square)
