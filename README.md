@@ -18,7 +18,7 @@
 
 > *CSE undergrad at PES University, Bengaluru — curious about the math behind intelligent systems and always looking to build something meaningful.*
 
-I'm a 2nd-year Computer Science student passionate about **AI, ML, and understanding how LLMs work under the hood**. I enjoy bridging theoretical concepts with real-world applications — whether that's building RAG pipelines, full-stack web apps, or low-level systems in C.
+I'm a 3rd-year Computer Science student passionate about **AI, ML, and understanding how LLMs work under the hood**. I enjoy bridging theoretical concepts with real-world applications — whether that's building RAG pipelines, full-stack web apps, or low-level systems in C.
 
 ---
 
