@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/basavaprabhu46/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17182e?style=for-the-badge&logoColor=59d9ed&logo=linkedin" /></a>
 <a href="mailto:basavaprabhu046@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-17182e?style=for-the-badge&logoColor=f4a8dd&logo=gmail" /></a>
 
-<p><a href="#about">About</a> · <a href="#projects">Projects</a> · <a href="#toolkit">Toolkit</a> · <a href="#beyond-code">Beyond code</a></p>
+<p><a href="#about">About</a> · <a href="#projects">Projects</a> · <a href="#toolkit">Toolkit</a> · <a href="#stats">Stats</a> · <a href="#beyond-code">Beyond code</a></p>
 </div>
 
 <br/>
@@ -124,6 +124,18 @@ I bring the same curiosity to **photography, art, and design**. For me, understa
 </p>
 
 **Foundations:** Data structures & algorithms · Algorithm design · Operating systems · Computer networks · Linear algebra
+
+<br/>
+
+<h2 id="stats">📊 GitHub stats</h2>
+
+<div align="center">
+<a href="https://github.com/Basavaprabhu46"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Basavaprabhu46&theme=tokyonight" width="100%" alt="GitHub contribution overview for Basavaprabhu46" /></a>
+<br/>
+<a href="https://github.com/Basavaprabhu46"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Basavaprabhu46&theme=tokyonight" width="49%" alt="GitHub totals: stars, commits, pull requests, issues, and contributions" /></a>
+<a href="https://github.com/Basavaprabhu46?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Basavaprabhu46&theme=tokyonight" width="49%" alt="Most used languages by repository count" /></a>
+<p><sub>Cards refresh periodically. Language distribution is based on repository count.</sub></p>
+</div>
 
 <br/>
 
