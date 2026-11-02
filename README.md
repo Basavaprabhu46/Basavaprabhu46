@@ -1,137 +1,144 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Basava%20Prabhu&fontSize=50)
+<img src="./assets/hero.svg" width="100%" alt="Basava Prabhu — AI, Machine Learning, and Creative Development" />
 
+<h3>👋 Hey there! I'm Basava — curious about the math behind intelligent systems.</h3>
+<p><b>CSE undergraduate at PES University, Bengaluru</b><br/>Building things. Understanding how they work. Making them feel right.</p>
+
+<a href="https://portfolio-nine-rho-v864b2vpx6.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-17182e?style=for-the-badge&logoColor=a99aff&logo=googlechrome" /></a>
+<a href="https://www.linkedin.com/in/basavaprabhu46/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-17182e?style=for-the-badge&logoColor=59d9ed&logo=linkedin" /></a>
+<a href="mailto:basavaprabhu046@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-17182e?style=for-the-badge&logoColor=f4a8dd&logo=gmail" /></a>
+
+<p><a href="#about">About</a> · <a href="#projects">Projects</a> · <a href="#toolkit">Toolkit</a> · <a href="#beyond-code">Beyond code</a></p>
 </div>
 
+<br/>
+
+<h2 id="about">🧠 A little about me</h2>
+
+I'm a **3rd-year Computer Science student** interested in **AI, ML, and how LLMs work under the hood**. I enjoy connecting theory with things I can build — whether that's a RAG pipeline, a visual explanation of linear algebra, or a network controller.
+
+I bring the same curiosity to **photography, art, and design**. For me, understanding a system and making it understandable to someone else go hand in hand.
+
+> **What connects my work:** exploring intelligent systems, turning math into intuition, and building useful interfaces.
+
+<br/>
+
+<h2 id="projects">🚀 Projects worth opening</h2>
+<p>A selection spanning applied AI, machine learning, interactive math, and systems.</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Basavaprabhu46/NeuralViz"><img src="./assets/neuralviz.svg" width="100%" alt="NeuralViz — 01 / MODEL EXPLORATION" /></a>
+<h3>See what is inside the network.</h3>
+<p>Drop a PyTorch checkpoint into your browser to explore layers, weights, biases, and simulated forward-pass activations.</p>
+<p><sub>Single-file app · Local processing · Interactive canvas</sub></p>
+<p><code>JavaScript</code> <code>Canvas</code> <code>PyTorch checkpoints</code></p>
+<p><a href="https://github.com/Basavaprabhu46/NeuralViz"><b>Explore NeuralViz →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Basavaprabhu46/Vigilex-AI"><img src="./assets/vigilex.svg" width="100%" alt="Vigilex AI — 02 / APPLIED AI" /></a>
+<h3>From documents to grounded answers.</h3>
+<p>A team-built privacy-policy research assistant combining local embeddings, legal-document retrieval, and a map-reduce analysis pipeline.</p>
+<p><sub>Document upload · Source-grounded Q&amp;A · Policy analysis</sub></p>
+<p><code>Python</code> <code>Flask</code> <code>LangChain</code> <code>ChromaDB</code></p>
+<p><a href="https://github.com/Basavaprabhu46/Vigilex-AI"><b>Explore Vigilex AI →</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Basavaprabhu46/bike-rental-forecasting"><img src="./assets/forecasting.svg" width="100%" alt="Bike Rental Forecasting — 03 / MACHINE LEARNING" /></a>
+<h3>Turn patterns into predictions.</h3>
+<p>Predict hourly and daily demand using time and weather features, with chronological splits and time-series cross-validation.</p>
+<p><sub>Model comparison · Ablation studies · Error analysis</sub></p>
+<p><code>Python</code> <code>pandas</code> <code>scikit-learn</code></p>
+<p><a href="https://github.com/Basavaprabhu46/bike-rental-forecasting"><b>Explore Bike Rental Forecasting →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Basavaprabhu46/pca-variance-interactive-visualiser"><img src="./assets/pca.svg" width="100%" alt="The Shadow Machine — 04 / INTERACTIVE MATH" /></a>
+<h3>Make linear algebra click.</h3>
+<p>Move data points and rotate a projection axis to discover the direction of maximum variance — an interactive introduction to PCA.</p>
+<p><sub>Editable data cloud · Live variance · Zero dependencies</sub></p>
+<p><code>JavaScript</code> <code>PCA</code> <code>Visualization</code></p>
+<p><a href="https://github.com/Basavaprabhu46/pca-variance-interactive-visualiser"><b>Explore The Shadow Machine →</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Basavaprabhu46/sdn-topology-detector"><img src="./assets/sdn.svg" width="100%" alt="SDN Topology Detector — 05 / COMPUTER NETWORKS" /></a>
+<h3>Watch the network change.</h3>
+<p>Track switch and link events with a Ryu controller and Mininet, updating the topology map and timestamped event logs.</p>
+<p><sub>OpenFlow 1.3 · MAC learning · Link-event monitoring</sub></p>
+<p><code>Python</code> <code>Mininet</code> <code>Ryu</code></p>
+<p><a href="https://github.com/Basavaprabhu46/sdn-topology-detector"><b>Explore SDN Topology Detector →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Basavaprabhu46/Latent-Semantic-Analysis-SMS-Spam-Detection"><img src="./assets/spam.svg" width="100%" alt="LSA-SpamGuard — 06 / NLP FOUNDATIONS" /></a>
+<h3>Find the signal in the message.</h3>
+<p>Classify SMS messages using TF-IDF, truncated SVD, and cosine similarity to class centroids, with held-out evaluation.</p>
+<p><sub>Latent semantic space · Precision/recall tradeoff</sub></p>
+<p><code>NumPy</code> <code>scikit-learn</code> <code>Jupyter</code></p>
+<p><a href="https://github.com/Basavaprabhu46/Latent-Semantic-Analysis-SMS-Spam-Detection"><b>Explore LSA-SpamGuard →</b></a></p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 id="toolkit">🛠️ Tools I build with</h2>
+
+<h4>Languages</h4>
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-17182e?style=for-the-badge&logoColor=a99aff&logo=python" />
+<img alt="C" src="https://img.shields.io/badge/C-17182e?style=for-the-badge&logoColor=59d9ed&logo=c" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-17182e?style=for-the-badge&logoColor=f4a8dd&logo=javascript" />
+</p>
+
+<h4>AI, ML & data</h4>
+<p>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-17182e?style=for-the-badge&logoColor=a99aff&logo=numpy" />
+<img alt="pandas" src="https://img.shields.io/badge/pandas-17182e?style=for-the-badge&logoColor=59d9ed&logo=pandas" />
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-17182e?style=for-the-badge&logoColor=f4a8dd&logo=scikitlearn" />
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-17182e?style=for-the-badge&logoColor=a99aff&logo=langchain" />
+<img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-17182e?style=for-the-badge&logoColor=59d9ed" />
+</p>
+
+<h4>Web & databases</h4>
+<p>
+<img alt="React" src="https://img.shields.io/badge/React-17182e?style=for-the-badge&logoColor=a99aff&logo=react" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-17182e?style=for-the-badge&logoColor=59d9ed&logo=nodedotjs" />
+<img alt="Express" src="https://img.shields.io/badge/Express-17182e?style=for-the-badge&logoColor=f4a8dd&logo=express" />
+<img alt="Flask" src="https://img.shields.io/badge/Flask-17182e?style=for-the-badge&logoColor=a99aff&logo=flask" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-17182e?style=for-the-badge&logoColor=59d9ed&logo=html5" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-17182e?style=for-the-badge&logoColor=f4a8dd&logo=css" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-17182e?style=for-the-badge&logoColor=a99aff&logo=mongodb" />
+</p>
+
+<h4>Creative studio</h4>
+<p>
+<img alt="Blender" src="https://img.shields.io/badge/Blender-17182e?style=for-the-badge&logoColor=a99aff&logo=blender" />
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-17182e?style=for-the-badge&logoColor=59d9ed&logo=adobephotoshop" />
+<img alt="Lightroom" src="https://img.shields.io/badge/Lightroom-17182e?style=for-the-badge&logoColor=f4a8dd&logo=adobelightroom" />
+<img alt="Digital Art" src="https://img.shields.io/badge/Digital%20Art-17182e?style=for-the-badge&logoColor=a99aff" />
+</p>
+
+**Foundations:** Data structures & algorithms · Algorithm design · Operating systems · Computer networks · Linear algebra
+
+<br/>
+
+<h2 id="beyond-code">🎨 A creative life beyond the terminal</h2>
+
+**Core Member, Pixelloid — PES University's media club** *(2024–Present)*
+
+When I'm not debugging or exploring a new concept, you'll find me with a camera, making art, or working on a design. Different tools, same curiosity.
+
+<p align="center"><b>📸 Photography &nbsp; / &nbsp; 🎨 Art &nbsp; / &nbsp; ✦ Design</b></p>
+
+<br/>
+
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basavaprabhu46/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basavaprabhu046@gmail.com)
-
-
-</div>
-
----
-
-## 👋 Hey there! I'm Basava Prabhu
-
-> *CSE undergrad at PES University, Bengaluru — curious about the math behind intelligent systems and always looking to build something meaningful.*
-
-I'm a 3rd-year Computer Science student passionate about **AI, ML, and understanding how LLMs work under the hood**. I enjoy bridging theoretical concepts with real-world applications — whether that's building RAG pipelines, full-stack web apps, or low-level systems in C.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Databases & AI/ML**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1C3C3C?style=flat-square&logo=NumPyin&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1C3C3C?style=flat-square&logo=Pandasin&logoColor=white)
-
-**Core CS**
-
-![DSA](https://img.shields.io/badge/DSA-FF4757?style=flat-square)
-![DAA](https://img.shields.io/badge/DAA-2ED573?style=flat-square)
-![OS](https://img.shields.io/badge/OS-1E90FF?style=flat-square)
-![CN](https://img.shields.io/badge/CN-FFA502?style=flat-square)
-
-### 🎨 Creative & Design
-
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
-![Digital Art](https://img.shields.io/badge/Digital%20Art-31A8FF?style=flat-square&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🔍 [Vigilex AI – Privacy Compliance Assistant](https://github.com/Basavaprabhu46/Vigilex-AI)
-> `Python` `Flask` `LangChain` `ChromaDB` `JavaScript` `OpenAI API`
-
-An AI-powered compliance assistant built on **Retrieval-Augmented Generation (RAG)** to audit privacy policies against **GDPR, DPDP, and IT Act** regulations.
-
-- 🔗 Designed a vector retrieval pipeline for legal Q&A grounded in source documents
-- 🌐 Deployed a Flask REST API backend + JavaScript frontend
-- 📄 End-to-end support: PDF upload → chunking → embedding → querying
-
----
-
-### 🔍 [LSA-SpamFilter – SMS Spam Detection via SVD](https://github.com/Basavaprabhu46/Latent-Semantic-Analysis-SMS-Spam-Detection)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-A spam classifier built on **Latent Semantic Analysis (LSA)** — decomposes a TF-IDF matrix via **Truncated SVD**, projects messages into latent space, and classifies using **cosine similarity to class centroids**.
-
-- 📐 Applied rank reduction (k=100) to filter noise and capture latent semantic structure
-- ⚙️ Fixed 3 core bugs: added 80/20 stratified split, replaced 1-NN with centroid classifier, added full evaluation
-- 🎯 Tunable decision threshold for precision vs. recall tradeoff on unseen test data
-
----
-
-### ⌨️ Typing Speed Test Web App
-> `MongoDB` `Express` `React` `Node.js`
-
-An interactive full-stack web app to measure typing speed and accuracy in real time.
-
-- ⚡ Real-time scoring logic in JavaScript
-- 📱 Responsive, cross-device compatible UI
-
----
-
-### 🏛️ Positions of Responsibility
-
-- 🎨 **Core Member, Pixelloid** — College Media Club, PES University *(2024 – Present)*
-
----
-
-### 🎨 Beyond the Code
-
-When I'm not debugging or reading papers, you'll find me:
-
-📸 **Photography** &nbsp;|&nbsp; 🎨 **Art** &nbsp;|&nbsp;  **Design**
-
----
-
-<!--
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Basavaprabhu46&show_icons=true&theme=tokyonight&hide_border=true)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Basavaprabhu46&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
--->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-*"Curious about the math behind intelligent systems."*
-
+<p><i>“Curious about the math behind intelligent systems.”</i></p>
+<p><a href="https://www.linkedin.com/in/basavaprabhu46/">Let's connect</a> · <a href="https://github.com/Basavaprabhu46?tab=repositories">Explore all repositories</a></p>
+<img src="./assets/footer.svg" width="100%" alt="Violet and cyan flowing wave" />
 </div>

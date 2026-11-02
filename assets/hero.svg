@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+<title id="title">Basava Prabhu</title><desc id="desc">Computer science, machine learning, and a creative point of view. A typography-led violet banner.</desc>
+<rect width="1600" height="500" fill="#242039"/>
+<path d="M1130 0H1600V500H1260C1430 360 1090 275 1240 125C1282 83 1210 30 1130 0Z" fill="#b6a0e5"/>
+<path d="M1420 0C1580 140 1280 225 1460 380C1500 415 1540 450 1520 500" fill="none" stroke="#242039" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="74" y="72" font-size="19" letter-spacing="4" fill="#c2b2e1">COMPUTER SCIENCE / CREATIVE PRACTICE</text>
+<text x="65" y="228" font-size="142" font-weight="700" letter-spacing="-8" fill="#f5f1e8">Basava Prabhu<tspan fill="#b6a0e5">.</tspan></text>
+<text x="76" y="297" font-size="29" fill="#d0c6df">Curious about the math. Drawn to the visual.</text>
+<path d="M76 365H1060" stroke="#635970" stroke-width="1"/>
+<text x="76" y="421" font-size="20" letter-spacing="1" fill="#c2b2e1">AI &amp; MACHINE LEARNING</text>
+<text x="470" y="421" font-size="20" letter-spacing="1" fill="#c2b2e1">SYSTEMS</text>
+<text x="718" y="421" font-size="20" letter-spacing="1" fill="#c2b2e1">DESIGN</text>
+<text x="1474" y="446" text-anchor="end" font-size="21" letter-spacing="4" fill="#242039">BP / 46</text>
+</g></svg>
